@@ -1,0 +1,8 @@
+git status - проверка статуса
+git add <name of file> - добавление файла в ветку
+git add . - добавление нескольких файлов в ветку
+git branch - просмотр текущих веток
+git branch <new name for file> - создание новой ветки
+git checkot <name of file> - переход на нужную ветку
+git branch -D <name of file> - удаление нужной ветки
+git commit -m "<nay name for currently connit >" - коммит изменений
